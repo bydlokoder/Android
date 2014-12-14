@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ModernArt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="more_information">More information</string>
+    <string name="dialog">Do you want to get more information in the Internet?</string>
+
+</resources>
